@@ -1,8 +1,8 @@
 {
   "batimentos": [
-    { "cod_processamento_malha_fiscal": 4, "nom_atributo": 'B4 - Qtd  NF-e Autorizadas Escrituradas no LRE como Denegadas ou Canceladas', "des_atributo_abreviado": 'B4-QtdNFeAutorEscLRECancDeneg'},
-    { "cod_processamento_malha_fiscal": 4, "nom_atributo": 'B4 - Qtd  NF-e Denegadas ou Cancelada Escrituradas no LRE como Autorizadas', "des_atributo_abreviado": 'B4-QtdNFeCancDenegEscLREAutor'},
-    { "cod_processamento_malha_fiscal": 5, "nom_atributo": 'B5 - Qtd  NF-e Escrituradas pelo Destinatario como Autorizada e como Denegada ou Cancelada no LRS', "des_atributo_abreviado": 'B5-QtdEscDestAutEscLRSDenCan'},
-    { "cod_processamento_malha_fiscal": 5, "nom_atributo": 'B5 - Total Base de Calculo ST Escriturado no LRS sem Escrituracao Destinatario', "des_atributo_abreviado": 'B5-TotBcStLRSsemEscDest'}
+    { "cod_processamento_malha_fiscal": 4, "nom_atributo": "B4 - Qtd  NF-e Autorizadas Escrituradas no LRE como Denegadas ou Canceladas", "des_atributo_abreviado": "B4-QtdNFeAutorEscLRECancDeneg"},
+    { "cod_processamento_malha_fiscal": 4, "nom_atributo": "B4 - Qtd  NF-e Denegadas ou Cancelada Escrituradas no LRE como Autorizadas", "des_atributo_abreviado": "B4-QtdNFeCancDenegEscLREAutor"},
+    { "cod_processamento_malha_fiscal": 5, "nom_atributo": "B5 - Qtd  NF-e Escrituradas pelo Destinatario como Autorizada e como Denegada ou Cancelada no LRS", "des_atributo_abreviado": "B5-QtdEscDestAutEscLRSDenCan"},
+    { "cod_processamento_malha_fiscal": 5, "nom_atributo": "B5 - Total Base de Calculo ST Escriturado no LRS sem Escrituracao Destinatario", "des_atributo_abreviado": "B5-TotBcStLRSsemEscDest"}
   ]
 }
