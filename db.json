@@ -3,7 +3,6 @@
     { "cod_entidade": 7077, "cod_atributo": 384, "nom_atributo": "B4 - Qtd  NF-e Autorizadas Escrituradas no LRE como Denegadas ou Canceladas", "des_atributo_abreviado": "B4-QtdNFeAutorEscLRECancDeneg" },
     { "cod_entidade": 7077, "cod_atributo": 385, "nom_atributo": "B4 - Qtd  NF-e Denegadas ou Cancelada Escrituradas no LRE como Autorizadas", "des_atributo_abreviado": "B4-QtdNFeCancDenegEscLREAutor" },
     { "cod_entidade": 7077, "cod_atributo": 388, "nom_atributo": "B4 - Qtd  NF-e Escrituradas pelo Remetente como Autorizada e como Denegada ou Cancelada no LRE", "des_atributo_abreviado": "B4-QtdEscRemetAutEscLREDenCan" },
-    { "cod_entidade": 7077, "cod_atributo": 368, "nom_atributo": "B4 -Total ICMS Escrituradas no LRE sem Escrituracao Remetente", "des_atributo_abreviado": "B4-TotICMSLREsemEscRemet" },
-    { "cod_entidade": 7077, "cod_atributo": 369, "nom_atributo": "B4 -Total ICMS ST Escrituradas no LRE sem Escrituracao Remetente", "des_atributo_abreviado": "B4-TotICMSStLREsemEscRemet" }
+    { "cod_entidade": 7077, "cod_atributo": 368, "nom_atributo": "B4 -Total ICMS Escrituradas no LRE sem Escrituracao Remetente", "des_atributo_abreviado": "B4-TotICMSLREsemEscRemet" }
   ]
 }
