@@ -2,19 +2,11 @@
   batimentos: [
     { cod_processamento_malha_fiscal: 4, nom_atributo: 'B4 - Qtd  NF-e Autorizadas Escrituradas no LRE como Denegadas ou Canceladas', des_atributo_abreviado: 'B4-QtdNFeAutorEscLRECancDeneg'},
     { cod_processamento_malha_fiscal: 4, nom_atributo: 'B4 - Qtd  NF-e Denegadas ou Cancelada Escrituradas no LRE como Autorizadas', des_atributo_abreviado: 'B4-QtdNFeCancDenegEscLREAutor'},
-    { cod_processamento_malha_fiscal: 4, nom_atributo: 'B4 - Qtd  NF-e Escrituradas pelo Remetente como Autorizada e como Denegada ou Cancelada no LRE', des_atributo_abreviado: 'B4-QtdEscRemetAutEscLREDenCan'},
-    { cod_processamento_malha_fiscal: 4, nom_atributo: 'B4 - Qtd  NF-e Escrituradas pelo Remetente como Denegada ou Cancelada e como Autorizada no LRE', des_atributo_abreviado: 'B4-QtdEscRemetDenCanEscLREAut'},
-    { cod_processamento_malha_fiscal: 4, nom_atributo: 'B4 - Qtd  NF-e sem Escrituracao LRE', des_atributo_abreviado: 'B4-QtdNFesemEscLRE'},
-    { cod_processamento_malha_fiscal: 4, nom_atributo: 'B4 - Qtd Doc Escriturados no LRE sem NF-e', des_atributo_abreviado: 'B4-QtdDocLREsemNFe'},
     { cod_processamento_malha_fiscal: 4, nom_atributo: 'B4 - Total Base de Calculo ST Escriturado no LRE sem Escrituracao Remetente', des_atributo_abreviado: 'B4-TotBcStLREsemEscRemet'},
     { cod_processamento_malha_fiscal: 4, nom_atributo: 'B4 - Total Base de Calculo ST Escriturado no LRE sem NF-e', des_atributo_abreviado: 'B4-TotBcStLREsemNFe'},
     { cod_processamento_malha_fiscal: 5, nom_atributo: 'B5 - Qtd  NF-e Autorizadas Escrituradas no LRS como Denegadas ou Canceladas', des_atributo_abreviado: 'B5-QtdNFeAutorEscLRSCancDeneg'},
     { cod_processamento_malha_fiscal: 5, nom_atributo: 'B5 - Qtd  NF-e Denegadas ou Cancelada Escrituradas no LRS como Autorizadas', des_atributo_abreviado: 'B5-QtdNFeCancDenegEscLRSAutor'},
     { cod_processamento_malha_fiscal: 5, nom_atributo: 'B5 - Qtd  NF-e Escrituradas pelo Destinatario como Autorizada e como Denegada ou Cancelada no LRS', des_atributo_abreviado: 'B5-QtdEscDestAutEscLRSDenCan'},
-    { cod_processamento_malha_fiscal: 5, nom_atributo: 'B5 - Total Base de Calculo Escrituradas pelo Destinatario sem Escrituracao LRS', des_atributo_abreviado: 'B5-TotBcEscDestsemEscLRS'},
-    { cod_processamento_malha_fiscal: 5, nom_atributo: 'B5 - Total Base de Calculo Escriturado no LRS sem Escrituracao Destinatario', des_atributo_abreviado: 'B5-TotBcLRSsemEscDest'},
-    { cod_processamento_malha_fiscal: 5, nom_atributo: 'B5 - Total Base de Calculo Escriturado no LRS sem NF-e', des_atributo_abreviado: 'B5-TotBcLRSsemNFe'},
-    { cod_processamento_malha_fiscal: 5, nom_atributo: 'B5 - Total Base de Calculo ST em NF-e sem Escrituracao LRS', des_atributo_abreviado: 'B5-TotBcStNFesemEscLRS'},
     { cod_processamento_malha_fiscal: 5, nom_atributo: 'B5 - Total Base de Calculo ST Escriturado no LRS sem Escrituracao Destinatario', des_atributo_abreviado: 'B5-TotBcStLRSsemEscDest'}
   ]
 }
